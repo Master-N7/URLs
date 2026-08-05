@@ -23,3 +23,4 @@ kobo.com
 eink-api.kobo.com
 store.kobobooks.com
 api.kobo.com
+humblebundle.com
